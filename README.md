@@ -140,6 +140,6 @@ I'm open to internships, freelance projects, open-source collaborations, and ful
 
 *"Bridging the gap between software and hardware — one project at a time."*
 
-**© 2025 Bandhan Kumar Das · Built with HTML, CSS & ❤️ · Bhubaneswar, India**
+**© Bandhan Kumar Das · Built with HTML, CSS & ❤️ · Bhubaneswar, India**
 
 </div>
